@@ -45,5 +45,3 @@ LASSO Regression MSE: 32.94700199282025
 <img src="image/result1.png" alt="My Image" width="700"/>
 
 <img src="image/result2.png" alt="My Image" width="700"/>
-
-<img src="image/result3.png" alt="My Image" width="700"/>
