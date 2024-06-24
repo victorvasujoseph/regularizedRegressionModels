@@ -12,14 +12,14 @@ wages = fetch_openml(data_id=534, as_frame=True)
 Ridge Regression MSE: 22.324511499518042
 LASSO Regression MSE: 32.94700199282025
 
-#Learning and Conclusion
+# Learning and Conclusion
 
-##Regularization:
+## Regularization:
 
 Both Ridge and LASSO regression apply regularization to prevent overfitting.
 Ridge regression tends to shrink coefficients towards zero, while LASSO regression can set some coefficients to zero, effectively performing feature selection.
 
-Log Transformation:
+## Log Transformation:
 
 Transforming the target variable (wage) using a logarithm helps stabilize variance and make the data more normally distributed, improving model performance.
 
