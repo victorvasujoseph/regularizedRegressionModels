@@ -1,5 +1,4 @@
 # Regularized Regression Models
-Selecting features using ridge regularization, LASSO regularization, and sequential feature selection
 
 This activity is meant to summarize the work with regularized regression models. 
 
